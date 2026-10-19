@@ -1,0 +1,27 @@
+{
+    "IMU_0": [
+        "GyrX",
+        "GyrY",
+        "GyrZ",
+        "AccX",
+        "AccY",
+        "AccZ"
+    ],
+    "RCOU": [
+        "C1",
+        "C2",
+        "C3",
+        "C4"
+    ],
+    "RATE": [
+        "RDes",
+        "R",
+        "ROut",
+        "PDes",
+        "P",
+        "POut",
+        "YDes",
+        "Y",
+        "YOut"
+    ]
+}

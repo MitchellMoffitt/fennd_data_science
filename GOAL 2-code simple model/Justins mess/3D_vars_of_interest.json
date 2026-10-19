@@ -1,0 +1,10 @@
+{
+    "IMU_0": [
+        "GyrX",
+        "GyrY",
+        "GyrZ",
+        "AccX",
+        "AccY",
+        "AccZ"
+    ]
+}
