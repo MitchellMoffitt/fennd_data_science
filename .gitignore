@@ -1,0 +1,9 @@
+# Raw data (kept in OneDrive, not git)
+*.xlsx
+
+# Jupyter / Python clutter
+.ipynb_checkpoints/
+__pycache__/
+
+# Windows / OneDrive
+desktop.ini
