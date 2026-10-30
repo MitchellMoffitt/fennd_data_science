@@ -1,0 +1,15 @@
+flight,predicted_CG,predicted_in,middle_50%_of_windows_in,agreement,confidence,data_check,true_CG,correct
+500B_0.45F_H,0.60F,0.612,+0.45 to +0.70,22%,Low,OK,0.45F,False
+501B_0.15A_M,0.15A,-0.078,-0.24 to +0.02,24%,Low,OK,0.15A,True
+502B_0.30F_L,0.15F,0.147,+0.07 to +0.22,47%,Medium,OK,0.30F,False
+503B_0.00M_M,0.15A,-0.137,-0.25 to +0.01,27%,Low,OK,0.00M,False
+504B_0.30A_H,0.45A,-0.486,-0.78 to -0.28,24%,Low,OK,0.30A,False
+505B_0.45A_M,0.45A,-0.432,-0.58 to -0.21,25%,Low,OK,0.45A,True
+506B_0.60A_H,0.75A,-0.747,-0.92 to -0.37,58%,Medium,OK,0.60A,False
+507B_0.15F_M,0.15F,0.128,+0.03 to +0.21,45%,Medium,OK,0.15F,True
+508B_0.60F_L,0.45F,0.46,+0.39 to +0.57,50%,Medium,OK,0.60F,False
+509B_0.75F_H,0.45F,0.515,+0.45 to +0.73,33%,Low,OK,0.75F,False
+510B_0.75A_L,0.60A,-0.557,-0.62 to -0.49,41%,Medium,OK,0.75A,False
+Mystery_flight_1,0.00M,0.045,-0.07 to +0.23,39%,Medium,OK,unknown,
+Mystery_flight_2,0.45F,0.509,+0.42 to +0.60,37%,Medium,OK,unknown,
+Mystery_flight_3,0.15A,-0.131,-0.30 to -0.07,36%,Medium,OK,unknown,
